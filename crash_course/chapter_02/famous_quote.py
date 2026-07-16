@@ -1,0 +1,1 @@
+print('Thomas Jefferson is attributed as saying, "When injustice becomes law, resistance becomes duty."')
